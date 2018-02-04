@@ -1,0 +1,10 @@
+li a {
+    color: green;
+    background-color: lightgreen;
+    font-size: 18px;
+}
+
+li {
+    background-color: red;
+    font-size: 22px;
+}
