@@ -1,10 +1,7 @@
 li a {
     color: green;
-    background-color: lightgreen;
-    font-size: 18px;
 }
 
-li {
-    background-color: red;
-    font-size: 22px;
+body {
+    background: white url("images/kermit.gif") no-repeat right bottom;
 }
